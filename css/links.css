@@ -1,0 +1,17 @@
+a {
+	color:#000;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+a:active{
+	color:blue;
+}
+
+.link1{
+	padding-left: 1.4%;
+	padding-right: 1.4%;
+}
